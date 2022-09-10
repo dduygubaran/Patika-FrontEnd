@@ -1,0 +1,28 @@
+body{ 
+    background-color: #ECC5FB;
+
+    margin:0 auto;
+
+    text-align:center;
+
+    width:960px;
+
+    color:black;
+}
+
+
+h1 {
+color: #7F5283;
+}
+
+
+h3 {
+        border-style: double;
+        background-color: #C4DFAA;
+        text-align: center;
+        margin-right: 300px;
+        margin-left: 300px;
+        text-align: center;
+}
+
+
