@@ -1,9 +1,21 @@
+body{ 
+    background-color:pink;
 
-body{
-    background-color: pink;
     margin:0 auto;
-    text-align:center; 
-    width:960px;
-    color: black;
 
+    text-align:center;
+
+    width:960px;
+
+    color:black;
+}
+
+
+h1 {
+    color: #B2A4FF;
+}
+
+
+h2 {
+    color: #377D71;
 }
