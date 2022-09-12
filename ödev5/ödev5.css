@@ -1,0 +1,121 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.image {
+    margin-top: 20px;
+    margin-left: 600px;
+}
+
+.color-grey {
+    height: 100px;
+    background-color: rgb(233, 231, 231);
+}
+
+.clear {
+    clear: both;
+}
+
+input {
+    width: 80%;
+    margin-bottom: 20px;
+  }
+
+.class-input {
+    margin-bottom:20px;
+    margin-left: 40px;
+  }
+
+  .gradient {
+    background-color:rgba(220, 224, 228, 0.993) ;
+  }
+
+  .btn {
+    padding: 4px 50px;
+    margin-left: 550px;
+    border-radius: 10px;
+    color: black;
+    text-decoration: none;
+    -webkit-box-shadow: 6px 6px 17px 0px rgba(0,0,0,0.42); 
+box-shadow: 6px 6px 17px 0px rgba(0,0,0,0.42);
+}
+
+.container {
+    width: 1000px;
+  margin: 5px auto 0;
+}
+
+.left-bar {
+    width: 200px;
+    float: left;
+}
+
+.content {
+    width: 1300px;
+    float: left;
+}
+
+.card {
+    width: 20%;
+    height: 101px;
+    float: left;
+    padding: 2%;
+    padding-bottom: 4%;
+    margin: 0 2px;
+    background-color: rgb(101, 194, 178);
+    border-radius: 2px;
+}
+
+.card-1 {
+    width: 20%;
+    height: 75px;
+    float: left;
+    padding: 4%;
+    padding-bottom: 4%;
+    margin: 0 2px;
+    background-color: rgb(101, 194, 178);
+    border-radius: 2px;
+}
+
+.card-2 {
+    width: 20%;
+    height: 75px;
+    float: left;
+    padding: 4%;
+    padding-bottom: 4%;
+    margin: 0 2px;
+    background-color: rgb(101, 194, 178);
+    border-radius: 2px;
+}
+
+.subscribe-btn {
+    padding: 4px;
+    margin-right: 180px;
+    margin-bottom: 5px;
+    border-radius: 2px;
+    color: black;
+    text-decoration: none;
+    -webkit-box-shadow: 6px 6px 17px 0px rgba(0,0,0,0.42); 
+box-shadow: 6px 6px 17px 0px rgba(0,0,0,0.42);
+}
+
+.box{
+
+    width: 300px;
+    height: 80px;
+    padding: 10px;
+    margin-right: 10px;
+    float: left;
+}
+
+p {
+    margin-left: 650px; 
+    margin-top:200px;
+}
+
+
+
+
+
+
