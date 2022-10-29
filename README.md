@@ -21,4 +21,4 @@
 ![Ekran Görüntüsü (778)](https://user-images.githubusercontent.com/83429611/198854321-d63ccad5-bfef-4d02-b8ad-121d258458bf.png)
 
 ## KODLUYORUZ-FRONTEND-CALISMA
-![Ekran Görüntüsü (782)](https://user-images.githubusercontent.com/83429611/198854928-8785d17a-7ac4-4ec0-bc4e-fe1e53c39241.png)
+![Ekran Görüntüsü (785)](https://user-images.githubusercontent.com/83429611/198854969-3c0543fe-c9b5-4711-b5fd-3208f82f1f86.png)
