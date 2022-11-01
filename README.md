@@ -15,7 +15,7 @@
 ## ÖDEV 5
 ![Ekran Görüntüsü (272)](https://user-images.githubusercontent.com/83429611/189684565-f46a3c95-fd29-4848-8675-968873d7dda5.png)
 
-## KODLUYORUZ-BOOTSTRAP
+## BOOTSTRAP/bootstrap-odev
 ![Ekran Görüntüsü (781)](https://user-images.githubusercontent.com/83429611/198854317-9f1675f0-adf5-4cec-8f21-51a74ec53b29.png)
 ![Ekran Görüntüsü (780)](https://user-images.githubusercontent.com/83429611/198854408-d27a33f3-0541-447d-bf77-3e1c2d7b6300.png)
 ![Ekran Görüntüsü (778)](https://user-images.githubusercontent.com/83429611/198854321-d63ccad5-bfef-4d02-b8ad-121d258458bf.png)
