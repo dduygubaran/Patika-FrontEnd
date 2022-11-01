@@ -29,4 +29,5 @@
 ## BOOTSTRAP / bootsrap-Calisma2
 ![Ekran Görüntüsü (786)](https://user-images.githubusercontent.com/83429611/199334137-3d8e8631-c013-46c3-8c7d-2764db0042ae.png)
 ![Ekran Görüntüsü (794)](https://user-images.githubusercontent.com/83429611/199334182-360142cd-ea74-480f-9282-457ca47f727d.png)
-![Ekran Görüntüsü (791)](https://user-images.githubusercontent.com/83429611/199334211-c340902c-529c-4a3c-ab7c-4cdb6b8572cf.png)
+![Ekran Görüntüsü (793)](https://user-images.githubusercontent.com/83429611/199334802-c44a034e-2bcd-4bdf-96f2-5714b2c6513e.png)
+![Ekran Görüntüsü (796)](https://user-images.githubusercontent.com/83429611/199335043-bb7bd3e5-b1fa-45f1-9431-adac65c1c614.png)
