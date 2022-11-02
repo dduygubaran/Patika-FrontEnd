@@ -15,7 +15,7 @@
 ## ÖDEV 5
 ![Ekran Görüntüsü (272)](https://user-images.githubusercontent.com/83429611/189684565-f46a3c95-fd29-4848-8675-968873d7dda5.png)
 
-## KODLUYORUZ-FRONTEND-CALISMA
+## Grid Yapısı-Calisma
 ![Ekran Görüntüsü (785)](https://user-images.githubusercontent.com/83429611/198854969-3c0543fe-c9b5-4711-b5fd-3208f82f1f86.png)
 
 ## BOOTSTRAP / bootstrap-odev
