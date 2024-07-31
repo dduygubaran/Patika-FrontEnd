@@ -33,6 +33,6 @@
 ![Ekran Görüntüsü (796)](https://user-images.githubusercontent.com/83429611/199335043-bb7bd3e5-b1fa-45f1-9431-adac65c1c614.png)
 
 ## JAVASCRIPT / ödev2 - todo List
-![Screenshot from 2024-07-31 13-31-45](https://github.com/user-attachments/assets/3b576fb6-e231-435c-8d33-f690e46c52ff)
-![Screenshot from 2024-07-31 13-31-20](https://github.com/user-attachments/assets/45730031-620e-40e7-8c3a-3e775cf245f2)
-![Screenshot from 2024-07-30 16-46-24](https://github.com/user-attachments/assets/c4a93023-5182-487e-8349-3515449e6804)
+![Screenshot from 2024-07-30 16-46-24](https://github.com/user-attachments/assets/89619587-31e0-4306-ba1e-fc9302834d2f)
+![Screenshot from 2024-07-31 13-31-20](https://github.com/user-attachments/assets/e9908ed2-3960-4f41-be42-e50f615e4ef9)
+![Screenshot from 2024-07-31 13-31-45](https://github.com/user-attachments/assets/7976dcc4-5be1-4f9f-a09c-6db23c021339)
